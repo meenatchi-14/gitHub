@@ -4,6 +4,7 @@ border: none;
 height: 70vh;
 width: 98vw;
 display: grid;
+margin: 8px;
 grid-template: 
 "head  head head head head " 15vh
 "side side  search search search"15vh
