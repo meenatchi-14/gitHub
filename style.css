@@ -2,7 +2,7 @@
 #grid-main{
 border: none;
 height: 70vh;
-width: 95vw;
+width: 98vw;
 display: grid;
 grid-template: 
 "head  head head head head " 15vh
