@@ -2,7 +2,7 @@
 #grid-main{
 border: none;
 height: 70vh;
-width: 90vw;
+width: 95vw;
 display: grid;
 grid-template: 
 "head  head head head head " 15vh
@@ -37,6 +37,7 @@ border-radius: 10px;
 color:rgb(186, 181, 181);
 margin:20px ;
 margin-left:120px;
+padding-left: 10px;
 font-size:x-large;
 }
 .card1{
